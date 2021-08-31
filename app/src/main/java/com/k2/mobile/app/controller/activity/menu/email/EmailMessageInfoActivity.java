@@ -148,10 +148,10 @@ public class EmailMessageInfoActivity extends FragmentActivity implements OnClic
 							sb.append("word-wrap:break-word;");
 							sb.append("}");
 							sb.append("</style>");
-							sb.append("<script type=\"text/javascript\" src=\"http://mo.myoas.com:10086/static/js/zepto.min.js?v=\"></script>");
-							sb.append("<script type=\"text/javascript\" src=\"http://mo.myoas.com:10086/static/js/common.js?v=\"></script>");
-							sb.append("<script type=\"text/javascript\" src=\"http://mo.myoas.com:10086/static/assets/js/jquery-2.0.3.min.js?v=\"></script>");
-							sb.append("<script type=\"text/javascript\" src=\"http://mo.myoas.com:10086/static/assets/js/bootstrap.js?v=\"></script>");
+							sb.append("<script type=\"text/javascript\" src=\"http://m.bpm.sangfor.com.cn/static/js/zepto.min.js?v=\"></script>");
+							sb.append("<script type=\"text/javascript\" src=\"http://m.bpm.sangfor.com.cn/static/js/common.js?v=\"></script>");
+							sb.append("<script type=\"text/javascript\" src=\"http://m.bpm.sangfor.com.cn/static/assets/js/jquery-2.0.3.min.js?v=\"></script>");
+							sb.append("<script type=\"text/javascript\" src=\"http://m.bpm.sangfor.com.cn/static/assets/js/bootstrap.js?v=\"></script>");
 							sb.append("<script type=\"text/javascript\">");
 							sb.append("$(function () {");
 							sb.append("$(\"img\").each(function(){");

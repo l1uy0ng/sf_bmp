@@ -31,13 +31,13 @@ public class HttpConstants {
 	// 请求地址
 	public static String WEBSERVICE_URL = null ;
 	//	文件服务器
-	public static final String FILE_URL = "http://motest.myoas.com:10088/home/upfiles";
+	public static final String FILE_URL = "http://m.bpm.sangfor.com.cn";
 	//	惠生活
-	public static final String STATIC_LINK_URL = "http://motest.myoppo.com:8888/mo/huiLife.do?module=";
+	public static final String STATIC_LINK_URL = "http://m.bpm.sangfor.com.cn/mo/huiLife.do?module=";
 	//	HR助手
-	public static final String HR_STATIC_LINK_URL = "http://motest.myoppo.com:8888/mo/hrQuery.do?module=";
+	public static final String HR_STATIC_LINK_URL = "http://m.bpm.sangfor.com.cn/mo/hrQuery.do?module=";
 	//	忘记密码
-	public static final String FORGET_PSD_LINK_URL = "http://motest.myoppo.com:8888/mo/pwdTip.do";
+	public static final String FORGET_PSD_LINK_URL = "http://m.bpm.sangfor.com.cn/mo/pwdTip.do";
 	
 	// 固定密钥
 	public static final String STRENCRYPTKEY = "KSTAR@K2"; 
